@@ -136,6 +136,7 @@ if (app.Environment.IsProduction())
     {
         var db = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
 
+        db.Database.EnsureDeleted();
         db.Database.EnsureCreated();
 
         if (!db.Users.Any(u => u.Email == "admin@test.com"))
@@ -144,7 +145,7 @@ if (app.Environment.IsProduction())
             {
                 Email = "admin@test.com",
                 PasswordHash = BCrypt.Net.BCrypt.HashPassword("hola123"),
-                Role = UserManagementAPI.Models.UserRole.Admin,
+                Role = UserManagementAPI.Models.UserRole.User,
             });
 
             db.SaveChanges();
