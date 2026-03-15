@@ -145,7 +145,7 @@ if (app.Environment.IsProduction())
             {
                 Email = "admin@test.com",
                 PasswordHash = BCrypt.Net.BCrypt.HashPassword("hola123"),
-                Role = UserManagementAPI.Models.UserRole.User,
+                Role = UserManagementAPI.Models.UserRole.Admin,
             });
 
             db.SaveChanges();
