@@ -135,6 +135,27 @@ if (app.Environment.IsProduction())
     using (var scope = app.Services.CreateScope())
     {
         var db = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
+
+        db.Database.EnsureCreated();
+
+        if (!db.Users.Any(u => u.Email == "admin@test.com"))
+        {
+            db.Users.Add(new UserManagementAPI.Models.User
+            {
+                Email = "admin@test.com",
+                PasswordHash = BCrypt.Net.BCrypt.HashPassword("hola123"),
+                Role = UserManagementAPI.Models.UserRole.Admin,
+            });
+
+            db.SaveChanges();
+        }
+    }
+}
+else
+{
+    using (var scope = app.Services.CreateScope())
+    {
+        var db = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
         db.Database.Migrate();
     }
 }
