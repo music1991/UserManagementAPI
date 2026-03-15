@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "UserManagementAPI\\Program.cs",
               "ToolTip": "D:\\Work\\Repos\\Challenges\\Zoco Challenge\\UserManagementAPI\\UserManagementAPI\\Program.cs",
               "RelativeToolTip": "UserManagementAPI\\Program.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAUwHEAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAUwIgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-15T17:55:57.755Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "UserManagementAPI\\appsettings.Production.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-15T17:17:59.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T17:17:59.785Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "UserManagementAPI\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-15T17:17:58.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T17:17:58.611Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "UserManagementAPI\\.gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-15T16:47:09.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T16:47:09.057Z"
             }
           ]
         }
