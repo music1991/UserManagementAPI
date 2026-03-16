@@ -19,7 +19,9 @@ cd UserManagementAPI
 
 1. Abrir la solución `UserManagementAPI.sln` en Visual Studio.
 
-2. Aplicar las migraciones para crear la base de datos:
+2. El proyecto tiene la opcion de realizar las migraciones automaticas al inciar la solucion en Play.
+
+En caso de que quiera hacerlo manual, debe comentar la seccion del codigo correspondiente en Program.cs, es decir el bucle debajo de la region "#region Middleware Pipeline" y ejutar manualmente el comando:
 
 ```powershell
 Update-Database
