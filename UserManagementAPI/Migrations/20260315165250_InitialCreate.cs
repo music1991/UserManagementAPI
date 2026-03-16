@@ -11,6 +11,8 @@ namespace UserManagementAPI.Migrations
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
+            string passwordHash = BCrypt.Net.BCrypt.HashPassword("hola123");
+
             migrationBuilder.CreateTable(
                 name: "SessionLogs",
                 columns: table => new
@@ -102,7 +104,7 @@ namespace UserManagementAPI.Migrations
                 {
                     1,
                     "admin@test.com",
-                    "$2a$11$Q9jX9VQ3Y2Qp7P6n4sHhUe2H5H4G5V3hWJm3c2b8Gq2bQFqV7nJ9K",
+                    passwordHash,
                     1
                 });
         }
