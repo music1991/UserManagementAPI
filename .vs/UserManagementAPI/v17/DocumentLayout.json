@@ -5,18 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{20597C2E-978B-4EDF-BA83-9E7936BE04A4}|UserManagementAPI\\UserManagementAPI.csproj|d:\\work\\repos\\challenges\\zoco challenge\\usermanagementapi\\usermanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20597C2E-978B-4EDF-BA83-9E7936BE04A4}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20597C2E-978B-4EDF-BA83-9E7936BE04A4}|UserManagementAPI\\UserManagementAPI.csproj|d:\\work\\repos\\challenges\\zoco challenge\\usermanagementapi\\usermanagementapi\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{20597C2E-978B-4EDF-BA83-9E7936BE04A4}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20597C2E-978B-4EDF-BA83-9E7936BE04A4}|UserManagementAPI\\UserManagementAPI.csproj|d:\\work\\repos\\challenges\\zoco challenge\\usermanagementapi\\usermanagementapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{20597C2E-978B-4EDF-BA83-9E7936BE04A4}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20597C2E-978B-4EDF-BA83-9E7936BE04A4}|UserManagementAPI\\UserManagementAPI.csproj|d:\\work\\repos\\challenges\\zoco challenge\\usermanagementapi\\usermanagementapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{20597C2E-978B-4EDF-BA83-9E7936BE04A4}|UserManagementAPI\\UserManagementAPI.csproj|solutionrelative:usermanagementapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,47 +24,10 @@
               "RelativeDocumentMoniker": "UserManagementAPI\\Program.cs",
               "ToolTip": "D:\\Work\\Repos\\Challenges\\Zoco Challenge\\UserManagementAPI\\UserManagementAPI\\Program.cs",
               "RelativeToolTip": "UserManagementAPI\\Program.cs",
-              "ViewState": "AgIAAHYAAAAAAAAAAAAAAI8AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T17:55:57.755Z",
+              "WhenOpened": "2026-03-16T01:27:50.531Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.Production.json",
-              "DocumentMoniker": "D:\\Work\\Repos\\Challenges\\Zoco Challenge\\UserManagementAPI\\UserManagementAPI\\appsettings.Production.json",
-              "RelativeDocumentMoniker": "UserManagementAPI\\appsettings.Production.json",
-              "ToolTip": "D:\\Work\\Repos\\Challenges\\Zoco Challenge\\UserManagementAPI\\UserManagementAPI\\appsettings.Production.json",
-              "RelativeToolTip": "UserManagementAPI\\appsettings.Production.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-15T17:17:59.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\Work\\Repos\\Challenges\\Zoco Challenge\\UserManagementAPI\\UserManagementAPI\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "UserManagementAPI\\appsettings.Development.json",
-              "ToolTip": "D:\\Work\\Repos\\Challenges\\Zoco Challenge\\UserManagementAPI\\UserManagementAPI\\appsettings.Development.json",
-              "RelativeToolTip": "UserManagementAPI\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-15T17:17:58.611Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": ".gitignore",
-              "DocumentMoniker": "D:\\Work\\Repos\\Challenges\\Zoco Challenge\\UserManagementAPI\\UserManagementAPI\\.gitignore",
-              "RelativeDocumentMoniker": "UserManagementAPI\\.gitignore",
-              "ToolTip": "D:\\Work\\Repos\\Challenges\\Zoco Challenge\\UserManagementAPI\\UserManagementAPI\\.gitignore",
-              "RelativeToolTip": "UserManagementAPI\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-15T16:47:09.057Z"
             }
           ]
         }
